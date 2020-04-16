@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sumeetKishore/watxs/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sumeetKishore/watxs/static/js/main.9bddef20.chunk.js",
+    "main.js.map": "/sumeetKishore/watxs/static/js/main.9bddef20.chunk.js.map",
+    "runtime-main.js": "/sumeetKishore/watxs/static/js/runtime-main.6cdd9497.js",
+    "runtime-main.js.map": "/sumeetKishore/watxs/static/js/runtime-main.6cdd9497.js.map",
+    "static/js/2.07a05dc4.chunk.js": "/sumeetKishore/watxs/static/js/2.07a05dc4.chunk.js",
+    "static/js/2.07a05dc4.chunk.js.map": "/sumeetKishore/watxs/static/js/2.07a05dc4.chunk.js.map",
+    "index.html": "/sumeetKishore/watxs/index.html",
+    "precache-manifest.e40330747f76edc711dc540cd82c775e.js": "/sumeetKishore/watxs/precache-manifest.e40330747f76edc711dc540cd82c775e.js",
+    "service-worker.js": "/sumeetKishore/watxs/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sumeetKishore/watxs/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.07a05dc4.chunk.js.LICENSE.txt": "/sumeetKishore/watxs/static/js/2.07a05dc4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sumeetKishore/watxs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cdd9497.js",
+    "static/js/2.07a05dc4.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9bddef20.chunk.js"
+  ]
+}
